@@ -1,0 +1,1 @@
+    subPalindrome(str);
